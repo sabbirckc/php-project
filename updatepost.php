@@ -82,6 +82,5 @@ $conn->close();
 
     <button type="submit">Update Post</button>
 </form>
-<h1>fdfd</h1>
 </body>
 </html>
